@@ -1,0 +1,35 @@
+Interface: br0, datalink type: EN10MB (Ethernet)
+Starting arp-scan 1.9 with 256 hosts (http://www.nta-monitor.com/tools/arp-scan/)
+192.168.1.1	6c:b0:ce:07:19:46	(Unknown)
+192.168.1.8	f8:b1:56:b2:d8:63	Dell Inc PCBA Test
+192.168.1.9	f8:b1:56:c4:68:06	Dell Inc PCBA Test
+192.168.1.10	f8:b1:56:c4:68:06	Dell Inc PCBA Test
+192.168.1.14	00:16:3e:45:9e:d4	Xensource, Inc.
+192.168.1.15	f8:b1:56:b6:95:67	Dell Inc PCBA Test
+192.168.1.16	00:16:3e:7b:20:15	Xensource, Inc.
+192.168.1.19	00:16:3e:36:9e:b9	Xensource, Inc.
+192.168.1.20	f8:b1:56:b2:d8:63	Dell Inc PCBA Test
+192.168.1.21	00:16:3e:69:dd:8c	Xensource, Inc.
+192.168.1.29	00:16:3e:4c:ad:08	Xensource, Inc.
+192.168.1.30	f8:b1:56:b6:95:67	Dell Inc PCBA Test
+192.168.1.33	f8:b1:56:b2:e2:84	Dell Inc PCBA Test
+192.168.1.33	52:54:2f:33:a4:0f	(Unknown) (DUP: 2)
+192.168.1.70	f8:b1:56:c4:8a:5c	Dell Inc PCBA Test
+192.168.1.71	52:54:00:f3:3f:8a	QEMU
+192.168.1.72	52:54:00:cf:cd:09	QEMU
+192.168.1.80	f8:b1:56:c5:5e:bb	Dell Inc PCBA Test
+192.168.1.88	f8:b1:56:b2:cb:08	Dell Inc PCBA Test
+192.168.1.90	f8:b1:56:c6:60:8c	Dell Inc PCBA Test
+192.168.1.100	b8:ca:3a:b3:4b:e1	Dell PCBA Test
+192.168.1.104	52:54:00:66:96:7f	QEMU
+192.168.1.105	52:54:00:15:7d:b4	QEMU
+192.168.1.106	52:54:00:cd:d5:ca	QEMU
+192.168.1.107	52:54:00:7c:4b:85	QEMU
+192.168.1.115	f8:b1:56:c5:57:9b	Dell Inc PCBA Test
+192.168.1.117	52:54:00:cb:f9:b3	QEMU
+192.168.1.118	52:54:00:84:6a:35	QEMU
+192.168.1.120	f8:b1:56:c4:8c:a3	Dell Inc PCBA Test
+192.168.1.122	52:54:00:fa:fa:49	QEMU
+
+30 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.9: 256 hosts scanned in 2.266 seconds (112.97 hosts/sec). 30 responded
