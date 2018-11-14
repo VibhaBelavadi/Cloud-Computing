@@ -1,11 +1,11 @@
 # Cloud Computing Term Project
 
 * Project: IaaS cloud middleware
-  [x] Create a cloud environment with a number of servers, allowing users to submit their jobs, scale their jobs
-  [x] Make simple resource management solutions in determining where to place a VM and when to migrate them
+    * Create a cloud environment with a number of servers, allowing users to submit their jobs, scale their jobs
+    * Make simple resource management solutions in determining where to place a VM and when to migrate them
 * Project steps
-  [x] Cloud environment setup
-    [x] Set up the KVM environment
+    * Cloud environment setup
+        * Set up the KVM environment
     [x] Provide an interface for job submission and scaling
   [x] Middleware implementation
     [x] Explore libvirt to achieve VM creation, scaling, and migration
